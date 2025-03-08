@@ -56,10 +56,10 @@ Check out my **Portfolio Website**, where I showcase my work, projects, and skil
 
 ## 📞 **Connect With Me**  
 
-📧 **Email:** [your.email@example.com](techsoft203@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tech-soft-040648330/)  
+📧 **Email:** [techsoft203@gmail.com](mailto:techsoft203@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/tech-soft-040648330](https://www.linkedin.com/in/tech-soft-040648330/) 
 🐦 **Twitter/X:** [twitter.com/yourhandle](#)  
-💻 **GitHub:** [github.com/YourUsername](http://github.com/IdreesAh809/)  
+💻 **GitHub:** [github.com/IdreesAh809](https://github.com/IdreesAh809)   
 
 ---
 
