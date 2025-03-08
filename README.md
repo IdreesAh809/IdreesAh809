@@ -53,6 +53,13 @@ Welcome to my **GitHub Portfolio**! I am **Idrees Ahmad**, an **Intermediate-Lev
 
 ---
 
+
+## 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IdreesAh809&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IdreesAh809&layout=compact&theme=radical)
+
+
 ## 🎨 **Portfolio Website**  
 Check out my **Portfolio Website**, where I showcase my work, projects, and skills! 🌟  
 🔗 **[Visit Portfolio](https://YourUsername.github.io/)**  
