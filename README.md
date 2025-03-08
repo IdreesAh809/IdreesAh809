@@ -1,7 +1,6 @@
 # 🚀 Idrees Ahmad - Machine Learning & AI Enthusiast  
 
-![GitHub Banner] (https://i.imgur.com/YourImage.jpg)
-
+![GitHub Banner]
 
 
 Welcome to my **GitHub Portfolio**! I am **Idrees Ahmad**, an **Intermediate-Level Machine Learning Engineer** 🧠 with expertise in **Deep Learning, Web Development, Flutter, and SQL**. I love solving real-world problems using AI & ML.  
