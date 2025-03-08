@@ -56,8 +56,8 @@ Check out my **Portfolio Website**, where I showcase my work, projects, and skil
 
 ## 📞 **Connect With Me**  
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+📧 **Email:** [your.email@example.com](techsoft203@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tech-soft-040648330/)  
 🐦 **Twitter/X:** [twitter.com/yourhandle](#)  
 💻 **GitHub:** [github.com/YourUsername](#)  
 
