@@ -79,8 +79,3 @@ Check out my **Portfolio Website**, where I showcase my work, projects, and skil
 
 ---
 
-Now your **portfolio README** includes **live links** to your projects! 🎯  
-Would you like me to:  
-- Add **badges for Python, TensorFlow, etc.?**  
-- Include **a table format for skills/projects?**  
-- Make **any other improvements?** 😊
