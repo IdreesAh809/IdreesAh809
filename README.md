@@ -66,6 +66,8 @@ Driven by curiosity, hands-on learning, and a commitment to mastering new techno
 
 ## 🏆 Certifications
 
+## 🏆 Certifications
+
 - ![Coursera Logo](https://upload.wikimedia.org/wikipedia/commons/7/75/Coursera_logo.svg) [Machine Learning Specialization (Coursera)](https://github.com/IdreesAh809/Carrier-development-and-certification/blob/main/Coursera%20ML%20specilization.pdf)
 - ![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Cisco_logo_blue_2016.svg) [PCAP - Programming Essentials in Python (Cisco Networking Academy)](https://github.com/IdreesAh809/Carrier-development-and-certification/blob/main/Partner-_PCAP_-_Programming_Essentials_in_Python_certificate_Idrees%20Ahmad.pdf)
 - ![DeepLearning.AI Logo](https://cdn.worldvectorlogo.com/logos/deep-learning-ai.svg) [Deep Learning Specialization (deeplearning.ai)](https://github.com/IdreesAh809/Carrier-development-and-certification/blob/main/deep%20learning%20specialization.ai%20certificate.png)
