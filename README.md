@@ -1,44 +1,83 @@
-<!-- # Hello, I'm [Idrees Ahmad] <a href="https://yourportfolio.com"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a> -->
+<h1 align="center">👋 I'm Idrees Ahmad</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=7000&color=4CAF50&width=435&lines=Hello%2C+I'm+[Your+Name];Aspiring+ML+Engineer;Passionate+about+AI+%26+Web+Dev)](https://git.io/typing-svg)
-
----
-
-<h2>✨ About Me</h2>
-
-- 🌱 Currently exploring **Machine Learning & Deep Learning**
-- 💻 Building personal projects & learning every day  
-- 🔗 Visit my portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+GenAI;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p>
 
 ---
 
-<h2>🛠️ Tech I Use</h2>
-
-**Deep Learning & ML Frameworks**  
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-
-**Languages**  
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-
-**Tools**  
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
-<a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
+## 🌐 Portfolio  
+👉 [Check out my Portfolio Website](https://your-portfolio-link.com) *(Coming Soon!)*  
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" /></a>  
-<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=cobalt" /></a>  
-<a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" /></a>
+##  About Me    
+- 🧠 Exploring **Machine Learning, Deep Learning, Computer Vision & GenAI**  
+- 🛠️ From **basic ML models** to **modern AI systems**  
+- ⚡ Always learning, always building  
 
 ---
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🐍 Languages  
+- &nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### ⚙️ Frameworks & Libraries  
+- &nbsp;&nbsp;&nbsp; ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![Hugging Face](https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)  
+- &nbsp;&nbsp;&nbsp; ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
+### 🧑‍💻 Tools & Platforms  
+- &nbsp;&nbsp;&nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  
+- &nbsp;&nbsp;&nbsp; ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
+
+---
+
+
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+<h2>📊&nbsp; Profile Summary</h2>
+<a href="https://github.com/IdreesAh809">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdreesAh809&theme=radical" alt="Profile Summary" />
+</a>
+
+<h2>📈&nbsp; Activity Graph</h2>
+<a href="https://github.com/IdreesAh809">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IdreesAh809&theme=react-dark" alt="Activity Graph" />
+</a>
+
+<h2>💻&nbsp; Streak Stats </h2>
+<a href="https://github.com/IdreesAh809">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IdreesAh809&theme=cobalt" alt="Streak Stats" />
+</a>
+
+</details>
+
+---
+<h2>👇🏼&nbsp; How to reach me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/idrees-ahmad-040648330" target="_blank">
+    <img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/LinkedIn.svg" width="60" height="60" style="border-radius: 12px;">
+  </a>
+</p>
+
+<hr>
+
+<p align="center"><i>"Exploring AI with creativity and code."</i></p>
