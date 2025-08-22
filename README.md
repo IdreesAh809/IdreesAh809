@@ -1,113 +1,44 @@
-# Hi, I'm Idrees Ahmad 
+<!-- # Hello, I'm [Idrees Ahmad] <a href="https://yourportfolio.com"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a> -->
 
-<p align="center">
-  <b>Aspiring Software Engineer | Machine Learning & AI Explorer</b><br>
-  <a href="mailto:techsoft203@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/techsoft203@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/idrees-ahmad-040648330">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-idrees--ahmad--040648330-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://github.com/IdreesAh809">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-IdreesAh809-black?style=flat-square&logo=github">
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=7000&color=4CAF50&width=435&lines=Hello%2C+I'm+[Your+Name];Aspiring+ML+Engineer;Passionate+about+AI+%26+Web+Dev)](https://git.io/typing-svg)
 
 ---
 
-## About Me
+<h2>✨ About Me</h2>
 
-I am a motivated software engineer with a passion for machine learning, deep learning, and artificial intelligence.  
-Bachelor of Science in Software Engineering (Session 2024).  
-My Final Year Project focused on building an intelligent **Diabetic Retinopathy Detector**, using deep learning and computer vision for real-world healthcare impact.  
-Driven by curiosity, hands-on learning, and a commitment to mastering new technologies.
-
----
-
-## Programming Skills
-
-- **Python** ━━━━━━━━━━━━━━━━━━━━━━━━━━ 90%
-- **HTML** ━━━━━━━━━━━━━━━━━━━━━━━━━━ 90%
-- **CSS** ━━━━━━━━━━━━━━━━━━━━━━━ 75%
-- **SQL** ━━━━━━━━━━━━━━━━━━━━━ 70%
-- **JavaScript** ━━━━━━━━━━━━━━━━━━ 60%
-- **Dart** ━━━━━━━━━━━━━━━━ 50%
-- **C++** ━━━━━━━━━━━━━━━━ 50%
+- 🌱 Currently exploring **Machine Learning & Deep Learning**
+- 💻 Building personal projects & learning every day  
+- 🔗 Visit my portfolio: [yourportfolio.com](https://yourportfolio.com)  
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-## Machine Learning & AI Skills
+<h2>🛠️ Tech I Use</h2>
 
-- **Regression (Linear/Logistic)** ━━━━━━━━━━━━━━━━━━━━━━━━━━ 90%
-- **Classification** ━━━━━━━━━━━━━━━━━━━━━━━━━━ 90%
-- **CNN (Convolutional Neural Nets)** ━━━━━━━━━━━━━━━━━━━━━━━━ 85%
-- **RNN (Recurrent Neural Nets)** ━━━━━━━━━━━━━━━━━━━━━━━ 80%
-- **Data Visualization** ━━━━━━━━━━━━━━━━━━━━━━━ 80%
-- **NLP (Natural Language Processing)** ━━━━━━━━━━━━━━━ 50%
-- **Transformers** ━━━━━━━━━━━━━━━ 50%
-- **LLMs** ━━━━━━━━━━━━ 40%
-- **Generative AI** ━━━━━━━━━━━━━━━ 50%
-- **Computer Vision** ━━━━━━━━━━━━━━━━━━ 60%
+**Deep Learning & ML Frameworks**  
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 
----
+**Languages**  
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
-## Familiarity with ML & Data Science Frameworks
-
-- **Pandas:** Data manipulation and analysis.
-- **NumPy:** Scientific computing with arrays.
-- **Matplotlib:** Data visualization and plotting.
-- **Seaborn:** Statistical data visualization.
-- **Scikit-learn:** Machine learning algorithms and tools.
-- **TensorFlow:** Deep learning framework.
-- **PyTorch:** Flexible deep learning library.
-- **Keras:** High-level neural networks API.
+**Tools**  
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+<a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /></a>
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
 
 ---
 
-## 🏆 Certifications
+<h2>📊 GitHub Stats</h2>
 
-## 🏆 Certifications
-
-- ![Coursera Logo](https://upload.wikimedia.org/wikipedia/commons/7/75/Coursera_logo.svg) [Machine Learning Specialization (Coursera)](https://github.com/IdreesAh809/Carrier-development-and-certification/blob/main/Coursera%20ML%20specilization.pdf)
-- ![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Cisco_logo_blue_2016.svg) [PCAP - Programming Essentials in Python (Cisco Networking Academy)](https://github.com/IdreesAh809/Carrier-development-and-certification/blob/main/Partner-_PCAP_-_Programming_Essentials_in_Python_certificate_Idrees%20Ahmad.pdf)
-- ![DeepLearning.AI Logo](https://cdn.worldvectorlogo.com/logos/deep-learning-ai.svg) [Deep Learning Specialization (deeplearning.ai)](https://github.com/IdreesAh809/Carrier-development-and-certification/blob/main/deep%20learning%20specialization.ai%20certificate.png)
+<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" /></a>  
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=cobalt" /></a>  
+<a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" /></a>
 
 ---
-
-## Featured Projects
-
-### [Diabetic Retinopathy Detector (Final Year Project)](https://github.com/IdreesAh809/diabetic-retinopathy-detector)
-- Developed as my capstone Final Year Project.
-- Deep learning project for diabetic retinopathy detection using Vision Transformer (ViT) and ResNet-18 CNN.
-- Models converted to TensorFlow Lite and deployed in a Flutter app for real-time diagnosis.
-
-### [Mastering-ML](https://github.com/IdreesAh809/Mastering-ML)
-- 5+ beginner-friendly machine learning projects.
-- Topics: regression, classification, clustering, data visualization.  
-- Includes code, explanations, and Jupyter notebooks.
-
----
-
-## More Repositories
-
-- [IdreesAh809/IdreesAh809](https://github.com/IdreesAh809/IdreesAh809)  
-  <sub>Personal portfolio and highlights of my journey and skills.</sub>
-- [IdreesAh809/FRAUD-DETECTION-ML](https://github.com/IdreesAh809/FRAUD-DETECTION-ML)  
-  <sub>End-to-end machine learning project for fraud detection in financial transactions.</sub>
-- [IdreesAh809/JourneyOfGenAI-Bots](https://github.com/IdreesAh809/JourneyOfGenAI-Bots)  
-  <sub>Exploring advanced GenAI bots and conversational AI applications.</sub>
-- [Carrier-development-and-certification](https://github.com/IdreesAh809/Carrier-development-and-certification)  
-  <sub>Proof of my professional certificates and course completions.</sub>
-
----
-
-## Learning Philosophy
-
-I believe in "learning by doing."  
-I actively participate in coding challenges, contribute to open-source, and stay updated with the latest trends in AI and ML.
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
