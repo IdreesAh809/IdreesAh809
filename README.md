@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Portfolio  
-👉 [Check out my Portfolio Website](https://your-portfolio-link.com) *(Coming Soon!)*  
+👉 [Check out my Portfolio Website](https://idrees-portfolio-eosin.vercel.app/) *(Kar P Rawan d!)*  
 
 ---
 
