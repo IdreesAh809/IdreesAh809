@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Portfolio  
-👉 [Check out my Portfolio Website](https://idrees-ahmad-v1.vercel.app/) *(pending!)*  
+👉 [Check out my Portfolio Website](https://idrees-ahmad-v1.vercel.app/)  
 
 ---
 
